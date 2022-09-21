@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{C5911799
 		app-info.json = app-info.json
 		Directory.Build.props = Directory.Build.props
 		NuGet.Config = NuGet.Config
+		project_instruction.md = project_instruction.md
 		readme.md = readme.md
 	EndProjectSection
 EndProject
@@ -25,7 +26,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Core", "Movies.Core\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{39901910-EB7F-4BC5-8E0B-294A32BCCBB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Tests", "Movies.Tests\Movies.Tests.csproj", "{B015E79A-35BF-41B4-BD16-DA462E908427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.Tests", "Movies.Tests\Movies.Tests.csproj", "{B015E79A-35BF-41B4-BD16-DA462E908427}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
